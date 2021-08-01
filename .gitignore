@@ -122,6 +122,7 @@ venv.bak/
 
 
 config.py
+api_keys.py
 
 # mypy
 .mypy_cache/
